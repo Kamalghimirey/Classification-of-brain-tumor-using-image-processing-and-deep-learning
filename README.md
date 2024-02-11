@@ -68,7 +68,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aryal-Rupesh/Classification-of-Brain-Tumor-Using-Image-Processing-and-Deep-Learning.git 
+   git clone https://github.com/kamalghimirey/Classification-of-Brain-Tumor-Using-Image-Processing-and-Deep-Learning.git 
 
 
 ## Example usage
